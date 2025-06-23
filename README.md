@@ -10,7 +10,7 @@ This project is part of a Data Analyst internship task. The goal was to clean an
 ## 📂 Files Included
 - `marketing_campaign.csv` – Original dataset
 - `cleaned_marketing_data.csv` – Cleaned and processed dataset
-- `data_cleaning.py` – Python code for preprocessing
+- `data_cleaning.ipynb` – Python code for preprocessing
 - `screenshots/` – (Optional) Screenshots showing process
 
 ---
