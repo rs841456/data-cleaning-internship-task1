@@ -34,9 +34,5 @@ This project is part of a Data Analyst internship task. The goal was to clean an
 - Pandas
 - Jupyter Notebook (or any IDE)
 
----
-
-## 📤 Submission
-Link to this GitHub repo is submitted as part of Task 1 requirements.
 
 
